@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:08 +0800] "GET / HTTP/1.1" 302 - http-bio-9101-exec-1 50
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:08 +0800] "GET / HTTP/1.1" 302 - http-bio-9101-exec-3 7
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:09 +0800] "GET /assets/img/favicon.ico HTTP/1.1" 302 - http-bio-9101-exec-4 3
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:14 +0800] "POST /login HTTP/1.1" 302 - http-bio-9101-exec-5 63
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:14 +0800] "GET /admin/index.html HTTP/1.1" 200 22145 http-bio-9101-exec-6 69
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:14 +0800] "GET /plugins/jQueryUI/jquery-ui.min.js HTTP/1.1" 404 1017 http-bio-9101-exec-7 4
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:14 +0800] "GET /plugins/jQueryUI/jquery-ui.min.js HTTP/1.1" 404 1017 http-bio-9101-exec-8 1
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:14 +0800] "GET /admin/home.html HTTP/1.1" 200 4468 http-bio-9101-exec-9 25
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:14 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9101-exec-2 2
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:18 +0800] "GET /admin/goods.html HTTP/1.1" 200 5538 http-bio-9101-exec-3 17
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:26 +0800] "GET /login/name.do HTTP/1.1" 200 21 http-bio-9101-exec-10 11412
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:26 +0800] "POST /goods/search.do?page=1&rows=10 HTTP/1.1" 200 952 http-bio-9101-exec-5 8361
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:26 +0800] "GET /itemCat/findAll.do HTTP/1.1" 200 70247 http-bio-9101-exec-3 8369
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:26 +0800] "POST /goods/search.do?page=1&rows=10 HTTP/1.1" 200 952 http-bio-9101-exec-8 19
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:32 +0800] "GET /goods/updateStauts.do?ids=149187842867960&status=1 HTTP/1.1" 200 47 http-bio-9101-exec-1 510
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:32 +0800] "POST /goods/search.do?page=1&rows=10 HTTP/1.1" 200 625 http-bio-9101-exec-1 8
+0:0:0:0:0:0:0:1 - - [03/Dec/2018:22:49:32 +0800] "POST /goods/search.do?page=1&rows=10 HTTP/1.1" 200 625 http-bio-9101-exec-1 13
